@@ -63,6 +63,7 @@ async function render(num) {
     );
   });
   $(".searchCont").html("");
+  students();
 }
 //кнопка удаления
 //работа Чингиза
@@ -74,11 +75,13 @@ $("body").on("click", ".btn-delete", function (event) {
 });
 //работа Эрлана
 //количество студентов
-fetch("http://localhost:8000/todos")
-  .then((res) => res.json())
-  .then((data) => {
-    $(".amount").html(`Students amount: ${data.length}`);
-  });
+function students() {
+  fetch("http://localhost:8000/todos")
+    .then((res) => res.json())
+    .then((data) => {
+      $(".amount").html(`Students amount: ${data.length}`);
+    });
+}
 
 //кнопка изменения
 $("body").on("click", ".btn-patch", function (event) {
