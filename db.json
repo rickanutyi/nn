@@ -1,40 +1,106 @@
 {
   "todos": [
     {
-      "name": "eeee",
-      "fam": "eeee",
-      "nums": "eeee",
-      "id": 2
-    },
-    {
-      "name": "effsfsdg",
-      "fam": "sdfgsfg",
-      "nums": "332424",
-      "id": 3
-    },
-    {
-      "name": "fsfsfgsdfgsf",
-      "fam": "sdfgsdfg",
-      "nums": "sdfgsdfg",
-      "id": 4
-    },
-    {
-      "name": "sdfgsdf",
-      "fam": "sdfgsdfgsd",
-      "nums": "234234234",
-      "id": 5
-    },
-    {
-      "name": "adsf",
-      "fam": "asdfas",
-      "nums": "dfasd",
-      "id": 6
-    },
-    {
       "name": "dfgsdfg",
       "fam": "sfg",
       "nums": "sdfg",
       "id": 7
+    },
+    {
+      "name": "asd",
+      "fam": "asdas",
+      "nums": "asdasd",
+      "weekKpi": "asdasd",
+      "monthKpi": "asdasd",
+      "id": 10
+    },
+    {
+      "name": "ERLAN",
+      "fam": "ERLAN",
+      "nums": "ERLAN",
+      "weekKpi": "ERLAN",
+      "monthKpi": "ERLAN",
+      "id": 11
+    },
+    {
+      "name": "e",
+      "fam": "e",
+      "nums": "e",
+      "weekKpi": "e",
+      "monthKpi": "e",
+      "id": 12
+    },
+    {
+      "name": "w",
+      "fam": "w",
+      "nums": "w",
+      "weekKpi": "w",
+      "monthKpi": "w",
+      "id": 13
+    },
+    {
+      "name": "r",
+      "fam": "r",
+      "nums": "r",
+      "weekKpi": "r",
+      "monthKpi": "r",
+      "id": 14
+    },
+    {
+      "name": "q",
+      "fam": "q",
+      "nums": "q",
+      "weekKpi": "q",
+      "monthKpi": "q",
+      "id": 15
+    },
+    {
+      "name": "c",
+      "fam": "c",
+      "nums": "c",
+      "weekKpi": "c",
+      "monthKpi": "c",
+      "id": 16
+    },
+    {
+      "name": "c",
+      "fam": "c",
+      "nums": "c",
+      "weekKpi": "c",
+      "monthKpi": "c",
+      "id": 17
+    },
+    {
+      "name": "c",
+      "fam": "c",
+      "nums": "c",
+      "weekKpi": "c",
+      "monthKpi": "c",
+      "id": 18
+    },
+    {
+      "name": "c",
+      "fam": "c",
+      "nums": "c",
+      "weekKpi": "c",
+      "monthKpi": "c",
+      "id": 19
+    },
+    {
+      "name": "c",
+      "fam": "c",
+      "nums": "c",
+      "weekKpi": "c",
+      "monthKpi": "c",
+      "id": 20
+    },
+    {
+      "name": "ERLAN",
+      "fam": "CHYNYBAEV",
+      "nums": "4",
+      "weekKpi": "5",
+      "monthKpi": "5",
+      "id": 21
     }
   ]
 }

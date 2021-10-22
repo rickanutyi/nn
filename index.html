@@ -13,43 +13,47 @@
     ></script>
   </head>
   <body>
+    <div class="bg"></div>
     <div class="wrapper">
       <div class="container">
         <div class="auth-form">
+          <span class="formName">Enter students KPI</span>
           <div class="field">
-            <span>Name: </span>
-            <input type="text" class="name-input" /><br />
-            <span>Family: </span>
-            <input type="text" class="family-input" /><br />
-            <span>Number: </span>
-            <input type="text" class="number-input" />
+            <span class="spanText" >Name: </span>
+            <input type="text" class="name-input" placeholder="Name"/><br /><br />
+            <span class="spanText" >Surname: </span>
+            <input type="text" class="family-input" placeholder="Surname"/><br /><br />
+            <span class="spanText" ">Number: </span>
+            <input type="text" class="number-input" placeholder="Number"/><br /><br />
+            <span class="spanText" >Week KPI: </span>
+            <input type="text" class="week-kpi" placeholder="Week KPI"/><br /><br />
+            <span class="spanText" >Month KPI: </span>
+            <input type="text" class="month-kpi" placeholder="Month KPI"/><br /><br />
           </div>
 
           <div class="field">
-            <button class="btn">Add contact</button>
+            <button class="btn">Add information</button>
           </div>
         </div>
+        <!-- <input type="text" name="" id="searchInp" />   -->
+        <div class="ser"><div class="searchCont"></div><input type="text" name="" id="searchInp" placeholder="search"/> </div>
+
+        
+
+         
       </div>
+      <div class="container"><h2 class = "amount">Students amount: </h2></div>
+      <div class="container"><button class = "prev">prev</button><button class = "next">next</button></div>
       <div class="container">
+        
         <ul class="task-list"></ul>
       </div>
     </div>
 
-    <div class="container"></div>
+    
 
     <div class="main-modal">
-      <div class="inner-modal">
-        <!-- <div class="close">
-          <button class="btn-close">X</button>
-        </div>
-        <span>Name</span>
-        <input type="text" class="modalNameInput" />
-        <span>Family</span>
-        <input type="text" class="modalFamilyInput" />
-        <span>number</span>
-        <input type="text" class="modalNumberInput" />
-        <button id="modalEdit">Edit</button> -->
-      </div>
+      
     </div>
     <script src="./js/main.js"></script>
   </body>
