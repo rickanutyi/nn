@@ -15,14 +15,6 @@
       "id": 10
     },
     {
-      "name": "ERLAN",
-      "fam": "ERLAN",
-      "nums": "ERLAN",
-      "weekKpi": "ERLAN",
-      "monthKpi": "ERLAN",
-      "id": 11
-    },
-    {
       "name": "e",
       "fam": "e",
       "nums": "e",
@@ -101,6 +93,38 @@
       "weekKpi": "5",
       "monthKpi": "5",
       "id": 21
+    },
+    {
+      "name": "ilim",
+      "fam": "ilim",
+      "nums": "777",
+      "weekKpi": "88",
+      "monthKpi": "88",
+      "id": 22
+    },
+    {
+      "name": "adilet",
+      "fam": "adilet",
+      "nums": "33333",
+      "weekKpi": "33",
+      "monthKpi": "33",
+      "id": 23
+    },
+    {
+      "name": "chingiz",
+      "fam": "chingiz",
+      "nums": "009998",
+      "weekKpi": "999",
+      "monthKpi": "99",
+      "id": 24
+    },
+    {
+      "name": "aidar",
+      "fam": "aidar",
+      "nums": "444",
+      "weekKpi": "33",
+      "monthKpi": "33",
+      "id": 25
     }
   ]
 }
