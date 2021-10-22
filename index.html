@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/style.css" />
+    <script
+      src="https://code.jquery.com/jquery-3.6.0.min.js"
+      integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="container">
+        <div class="auth-form">
+          <div class="field">
+            <span>Name: </span>
+            <input type="text" class="name-input" /><br />
+            <span>Family: </span>
+            <input type="text" class="family-input" /><br />
+            <span>Number: </span>
+            <input type="text" class="number-input" />
+          </div>
+
+          <div class="field">
+            <button class="btn">Add contact</button>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <ul class="task-list"></ul>
+      </div>
+    </div>
+
+    <div class="container"></div>
+
+    <div class="main-modal">
+      <div class="inner-modal">
+        <!-- <div class="close">
+          <button class="btn-close">X</button>
+        </div>
+        <span>Name</span>
+        <input type="text" class="modalNameInput" />
+        <span>Family</span>
+        <input type="text" class="modalFamilyInput" />
+        <span>number</span>
+        <input type="text" class="modalNumberInput" />
+        <button id="modalEdit">Edit</button> -->
+      </div>
+    </div>
+    <script src="./js/main.js"></script>
+  </body>
+</html>
